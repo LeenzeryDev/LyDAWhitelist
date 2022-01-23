@@ -1,0 +1,7 @@
+name: LyDAWhitelist
+version: '${project.version}'
+main: ru.leenzerydev.lydawhitelist.LyDAWhitelist
+api-version: 1.18
+authors: [ LeenzeryDev ]
+description: Плагин добавляет в белый список игрока по нику из доната через DonationAlerts.
+website: https://leenzery.dev

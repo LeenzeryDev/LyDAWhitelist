@@ -1,0 +1,4 @@
+#Сумма при которой игрок будет добавлен в Whitelist
+amount: 100
+#Команда для добавления в Whitelist(предусмотрено для сторонних плагинов на Whitelist)
+whitelist-command: whitelist add
